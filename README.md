@@ -18,18 +18,22 @@ TensorFlow / Keras
 Scikit-learn
 
 ## Model Architecture
-The model uses an LSTM neural network which is well suited for time series forecasting problems.
+The model uses an LSTM neural network, which is well-suited for time series forecasting problems.
 
 Steps:
 1. Data preprocessing
 2. Feature scaling using MinMaxScaler
 3. Creating time sequences
-4. Training LSTM model
+4. Training the LSTM model
 5. Predicting stock prices
 6. Visualizing predictions vs actual prices
 
 ## Results
 The model successfully learns the trend of Google stock prices and predicts future price movements.
+
+RMSE: 10.44
+MAE: 8.14
+R2 Score: 0.25
 
 ## Visualization
 The project compares predicted prices with actual prices using line charts.
