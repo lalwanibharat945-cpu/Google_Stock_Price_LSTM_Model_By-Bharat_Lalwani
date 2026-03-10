@@ -14,6 +14,7 @@ Python
 Pandas  
 NumPy  
 Matplotlib  
+Seaborn
 TensorFlow / Keras  
 Scikit-learn
 
