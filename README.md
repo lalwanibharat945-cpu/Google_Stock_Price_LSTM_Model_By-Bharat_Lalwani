@@ -8,6 +8,7 @@ The model is trained on historical stock price data to learn time series pattern
 ## Dataset
 Dataset Source: Kaggle  
 Google Stock Price Training and Test Data
+
 Already given a train and test split
 train shape = 1258 rows, 5 columns
 test Shape = 20 rows, 5 columns
