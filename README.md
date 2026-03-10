@@ -3,11 +3,15 @@
 
 ## Project Overview
 This project predicts Google stock prices using a Long Short-Term Memory (LSTM) deep learning model.  
-The model is trained on historical stock price data to learn time series patterns and forecast future prices.
+The model is trained on historical stock price data to learn time series patterns and forecast future Closing prices.
 
 ## Dataset
 Dataset Source: Kaggle  
 Google Stock Price Training and Test Data
+Already given a train and test split
+train shape = 1258 rows, 5 columns
+test Shape = 20 rows, 5 columns
+Columns Given = Date, Close, Open, High, Low, Volume
 
 ## Technologies Used
 Python  
@@ -19,7 +23,7 @@ TensorFlow / Keras
 Scikit-learn
 
 ## Model Architecture
-The model uses an LSTM neural network, which is well-suited for time series forecasting problems.
+The model uses an LSTM neural network, which is well-suited to time-series forecasting problems.
 
 Steps:
 1. Data preprocessing
