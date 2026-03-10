@@ -34,5 +34,8 @@ The model successfully learns the trend of Google stock prices and predicts futu
 ## Visualization
 The project compares predicted prices with actual prices using line charts.
 
+<img width="1134" height="501" alt="image" src="https://github.com/user-attachments/assets/cc4900e9-9a0f-4ec4-ac1a-fe6a3a6c0d4f" />
+
+
 ## Author
 Bharat Lalwani
