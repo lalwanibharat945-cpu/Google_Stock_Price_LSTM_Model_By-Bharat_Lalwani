@@ -37,14 +37,15 @@ Steps:
 ## Results
 The model successfully learns the trend of Google stock prices and predicts future price movements.
 
-RMSE: 10.3
-MAE: 8.38
-R2 Score: 0.27
+RMSE: 7.1
+MAE: 5.58
+R2 Score: 0.65
 
 ## Visualization
 The project compares predicted prices with actual prices using line charts.
 
-<img width="1134" height="501" alt="image" src="https://github.com/user-attachments/assets/c0e8f8aa-8b88-47b1-99a5-ffacf73fa8a2" />
+<img width="1134" height="501" alt="image" src="https://github.com/user-attachments/assets/654f8bb3-ac8c-42a2-9740-82ad8082f66f" />
+
 
 
 
